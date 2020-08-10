@@ -1,5 +1,5 @@
 cornice==0.16.2
-gunicorn==19.6
+gunicorn==19.10.0
 pyramid==1.6a2
 WebOb==1.6.0a0
 requests==2.20

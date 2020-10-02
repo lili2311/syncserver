@@ -12,3 +12,5 @@ futures==3.0
 soupsieve==1.9.5
 https://github.com/mozilla-services/tokenserver/archive/1.4.5.zip
 https://github.com/mozilla-services/server-syncstorage/archive/1.6.14.zip
+
+urllib3>=1.25.9 # not directly required, pinned by Snyk to avoid a vulnerability
